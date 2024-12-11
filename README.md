@@ -1,1 +1,1 @@
-# Comparaci-n-de-algoritmos-de-CPU
+# Comparacion-de-algoritmos-de-CPU
